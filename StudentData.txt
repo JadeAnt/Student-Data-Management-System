@@ -1,0 +1,9 @@
+	Name		ID			Class	Current Average		Cumulative Average
+	Jaden		112164830	1-A		95					97
+	Emily		12345		2-B		88					90			
+	Joshua		11234		3-B		0					0
+	Marco		22345		1-A		0					0
+	Google		pw22224		1-A		0					0
+	Mal			123			1-A		0					0
+	Emmanuel	1			1-A		0					0
+	
